@@ -1,0 +1,37 @@
+REST API - JSON
+
+GET api/users/1 - Get the user with id 1
+GET api/users/2 - Get the user with id 2
+
+Dymic path parameters
+Get /api/users/:id
+
+POST api/user - create new user - done
+
+PATCH api/user/1 - Edit thte user data with ID 1
+
+DELETE api/user/1 - Delete the user with ID 11702969766589: GET: /users/
+1702969959522: POST: /api/users
+1702970056056: POST: /api/users
+1702970145243: POST: /api/users
+1702970276925: POST: /api/users
+1702970447323: GET: /users
+1702970448368: GET: /favicon.ico
+1702970993656: GET: /api/users/
+1702971048980: GET: /api/users/
+1702971059908: POST: /api/users
+1702971091725: POST: /api/users
+1702971095498: GET: /api/users/
+1702971379985: GET: /api/users/658142673461f285d24e2e26
+1702971405036: GET: /api/users
+1702971419219: GET: /api/users
+1702971645944: PATCH: /api/users/658142673461f285d24e2e26
+1702971663216: PUT: /api/users/658142673461f285d24e2e26
+1702971679790: PUT: /api/users/658142673461f285d24e2e26
+1702971877698: GET: /api/users/658142673461f285d24e2e26
+1702971885972: GET: /api
+1702971924982: GET: /api/658142673461f285d24e2e26
+1702971978461: GET: /api/658142673461f285d24e2e26
+1702971980280: GET: /api/658142673461f285d24e2e26
+1702971982137: GET: /api/658142673461f285d24e2e26
+1702972101765: GET: /users
